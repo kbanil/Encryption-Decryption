@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Encryption-Decryption.Problems-Max_and_Min.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Encryption-Decryption.Problems-Pick_your_team.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Encryption-Decryption.Problems-Static_factory_methods_for_Time.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.test.iml" />
+    </modules>
+  </component>
+</project>
